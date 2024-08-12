@@ -1,4 +1,4 @@
-module ithub.com/clockley/TyphoonCore-2
+module github.com/clockley/TyphoonCore-2
 
 go 1.13
 
